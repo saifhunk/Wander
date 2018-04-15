@@ -1,0 +1,108 @@
+PODS:
+  - Alamofire (4.7.1)
+  - Differentiator (3.0.2)
+  - EZSwiftExtensions (1.11)
+  - IQKeyboardManagerSwift (6.0.0)
+  - Kingfisher (4.3.1)
+  - KMPlaceholderTextView (1.3.0)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (11.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - NVActivityIndicatorView (4.2.0):
+    - NVActivityIndicatorView/Presenter (= 4.2.0)
+  - NVActivityIndicatorView/Presenter (4.2.0)
+  - ObjectMapper (3.0.0)
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+  - Realm (3.3.2):
+    - Realm/Headers (= 3.3.2)
+  - Realm/Headers (3.3.2)
+  - RealmSwift (3.3.2):
+    - Realm (= 3.3.2)
+  - Result (3.2.4)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.2):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - EZSwiftExtensions (from `https://github.com/goktugyil/EZSwiftExtensions.git`, branch `swift4`)
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 4.3.1)
+  - KMPlaceholderTextView
+  - Moya/RxSwift
+  - NVActivityIndicatorView
+  - ObjectMapper (from `https://github.com/Hearst-DD/ObjectMapper.git`, branch `swift-4`)
+  - R.swift (~> 4.0.0)
+  - RealmSwift
+  - RxCocoa (~> 4.0)
+  - RxDataSources (~> 3.0)
+  - RxSwift (~> 4.0)
+  - SwiftyJSON (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Differentiator
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - KMPlaceholderTextView
+    - Moya
+    - NVActivityIndicatorView
+    - R.swift
+    - R.swift.Library
+    - Realm
+    - RealmSwift
+    - Result
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  EZSwiftExtensions:
+    :branch: swift4
+    :git: https://github.com/goktugyil/EZSwiftExtensions.git
+  ObjectMapper:
+    :branch: swift-4
+    :git: https://github.com/Hearst-DD/ObjectMapper.git
+
+CHECKOUT OPTIONS:
+  EZSwiftExtensions:
+    :commit: 94c9e0a99fa4c815721ce9b7294ceff85eba05c6
+    :git: https://github.com/goktugyil/EZSwiftExtensions.git
+  ObjectMapper:
+    :commit: cb12ab3ca9b08c4fd3cec93cafd86d181ac7818e
+    :git: https://github.com/Hearst-DD/ObjectMapper.git
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  Differentiator: a87be69eba49ec4ab460c7671143ee3a9eececfd
+  EZSwiftExtensions: 9d3dc8a51818e2fbfd11099b38a2c47d0ca693d0
+  IQKeyboardManagerSwift: 624f128983eec795deacd50c1cd2f72664d13f08
+  Kingfisher: 75541c4b62f02e1fde6f9772303de3d9ebe8f5b3
+  KMPlaceholderTextView: 2bbcd19a273648a80a61e1e48f9743a24d8930e3
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  NVActivityIndicatorView: 75c9634073e03b31d7e2748cd2417feab1206195
+  ObjectMapper: 739e5530df22248823f6cc7ed9e016ebf2c26a27
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  Realm: d927fbf66df5532cfafc08afb5f7e53ded37b894
+  RealmSwift: 4e903a494e05d866581d69ad6f7e7b879d446baf
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 6e843b8a015937c186c08049e73a338dea166a35
+
+COCOAPODS: 1.5.0
